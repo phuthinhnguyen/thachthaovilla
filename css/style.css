@@ -1675,6 +1675,8 @@ footer .form-subscribe .form-control:active, footer .form-subscribe .form-contro
   display: flex;
   justify-content: space-evenly;
   flex-direction: row;
+  height: 400px;
+  
 }
 .content-whatpeoplesayaboutus-bottom .carousel-item-wrap .item {
   max-width: 304px;
@@ -2048,5 +2050,8 @@ footer .form-subscribe .form-control:active, footer .form-subscribe .form-contro
   }
   #section-counter span{
     font-size: 15px;
+  }
+  .content-whatpeoplesayaboutus-bottom .carousel-item-wrap{
+    height: 800px;
   }
 }
